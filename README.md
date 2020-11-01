@@ -8,6 +8,7 @@ Employees
 AppDriver
 
 Class Associations
+
 EmployeeRecord(1) ---- includes ---- (1) Employee
 
 Employees(1) ---- contains ---- (m) Employee
