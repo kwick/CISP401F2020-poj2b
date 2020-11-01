@@ -1,4 +1,4 @@
-# CISP401F2020-poj2b
+# CISP401F2020-poj2b 
 Project 2b for SCC CISP401 project 2b. Re-do of project 1 pay report
 
 Classes
@@ -9,7 +9,9 @@ AppDriver
 
 Class Associations
 EmployeeRecord(1) ---- includes ---- (1) Employee
+
 Employees(1) ---- contains ---- (m) Employee
+
 AppDriver(1) ---- uses ---- (1) Employees
 
 Class Attributes
